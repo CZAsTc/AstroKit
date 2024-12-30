@@ -10,6 +10,7 @@ Thank you for considering contributing to **AstroKit**! We greatly appreciate an
   - [Submitting Code Changes](#submitting-code-changes)
 - [Commit Message Guidelines](#commit-message-guidelines)
 - [License](#license)
+- [Contact](#contact)
 
 ## Code of Conduct
 This project adheres to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/). By participating, you agree to abide by its rules and guidelines.
@@ -59,4 +60,16 @@ Fix typo in README #45
 ## License
 By contributing to this project, you agree that your contributions will be licensed under the [MIT License](LICENSE).
 
-Thank you for your contributions!
+The MIT License is a permissive free software license that allows you to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, provided that you include a copy of the license with your distribution. For more information, please see the full text of the MIT License in the [LICENSE](LICENSE) file.
+
+This project does not guarantee any warranties, and is provided "as-is". You use the project at your own risk.
+
+## Contact
+For any general inquiries, bug reports, feature requests, or suggestions, you can reach us at the following contact points:
+
+- **Email:** [czastc6@outlook.com](mailto:czastc6@outlook.com)
+- **GitHub Issues:** If you have any specific problems or suggestions regarding the project, please open a new issue on the [GitHub Issues page](https://github.com/CZAsTc/AstroKit/issues).
+
+We aim to respond to inquiries as quickly as possible, but please allow some time for a response depending on the volume of messages.
+
+Thank you for your contributions and support in making **AstroKit** better!
