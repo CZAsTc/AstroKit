@@ -28,3 +28,5 @@ body:
             required: true
           - label: "I confirm that this issue has not been mentioned in other [open issues](https://github.com/CZAsTc/AstroKit/issues) or [pull requests](https://github.com/CZAsTc/AstroKit/pulls)."
             required: true
+    validations:
+      required: true
