@@ -18,7 +18,7 @@ body:
       placeholder: "Describe what happened and how to reproduce it."
     validations:
       required: true
-  - type: teatarea
+  - type: textarea
     attributes:
       label: "Steps to Reproduce"
       description: "List the steps to reproduce the bug."
