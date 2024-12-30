@@ -45,17 +45,17 @@ body:
       description: "If applicable, add screenshots to help explain your problem."
     validations:
       required: false
-  - type: checkbox
+  - type: checkboxes
     attributes:
       label: "I have read and agree to the [Code of Conduct](https://github.com/CZAsTc/AstroKit/.github/CODE_OF_CONDUCT.md)."
     validations:
       required: true
-  - type: checkbox
+  - type: checkboxes
     attributes:
       label: "I have read and agree to the [Contributing Guidelines](https://github.com/CZAsTc/AstroKit/.github/CONTRIBUTING.md)."
     validations:
       required: true
-  - type: checkbox
+  - type: checkboxes
     attributes:
       label: "I confirm that this issue has not been mentioned in other [open issues](https://github.com/CZAsTc/AstroKit/issues) or [pull requests](https://github.com/CZAsTc/AstroKit/pulls)."
     validations:

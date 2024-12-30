@@ -23,4 +23,4 @@ Attach images here if needed.
 ### Checklist
 - [ ] I have read and agree to the [Code of Conduct](https://github.com/CZAsTc/AstroKit/.github/CODE_OF_CONDUCT.md).
 - [ ] I have read and agree to the [Contributing Guidelines](https://github.com/CZAsTc/AstroKit/.github/CONTRIBUTING.md).
-- [ ] I confirm that this pull request has not been mentioned in other [open issues](https://github.com/CZAsTc/AstroKit/issues) or [pull requests](https://github.com/CZAsTc/AstroKit/pulls).
+- [ ] I confirm that this pull request has not been mentioned in other [pull requests](https://github.com/CZAsTc/AstroKit/pulls).
